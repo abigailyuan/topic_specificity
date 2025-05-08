@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Yuan
+    given-names: Meng
+  - family-names: Lin
+    given-names: Pauline
+title: "Assessment of the Quality of Topic Models for Information Retrieval Applications"
+version: "0.1.0"
+doi: "10.1145/3578337.3605118"
+date-released: "2023-07-23"
+url: "https://github.com/abigailyuan/topic_specificity"
