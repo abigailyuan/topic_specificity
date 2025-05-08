@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+tests/test_specificity.py
+topic_specificity/__init__.py
+topic_specificity/specificity.py
+topic_specificity.egg-info/PKG-INFO
+topic_specificity.egg-info/SOURCES.txt
+topic_specificity.egg-info/dependency_links.txt
+topic_specificity.egg-info/requires.txt
+topic_specificity.egg-info/top_level.txt
