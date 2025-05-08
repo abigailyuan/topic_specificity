@@ -3,3 +3,11 @@ pycache/
 .venv/
 .idea/
 .DS_Store
+
+# IDE settings
+.idea/
+
+# Package metadata and build artifacts
+*.egg-info/
+dist/
+build/
