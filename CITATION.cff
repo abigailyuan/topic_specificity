@@ -5,6 +5,10 @@ authors:
     given-names: Meng
   - family-names: Lin
     given-names: Pauline
+  - family-names: Rashidi
+    given-names: Lida
+  - family-names: Zobel
+    given-names: Justin
 title: "Assessment of the Quality of Topic Models for Information Retrieval Applications"
 version: "0.1.0"
 doi: "10.1145/3578337.3605118"
