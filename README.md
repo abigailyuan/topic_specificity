@@ -10,13 +10,7 @@ This package implements the specificity measure described in:
 
 ## Installation
 
-You can install this package locally in editable (development) mode:
-
-```bash
-pip install -e .
-```
-
-Or, once it is published on PyPI, install it directly:
+You can install this package directly using pip:
 
 ```bash
 pip install topic-specificity
